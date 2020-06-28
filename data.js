@@ -1,7 +1,7 @@
 const main = {
   name: 'Álvaro Martínez Fernández',
   mail: 'mafermedia@gmail.com',
-  img: 'profile.jpg',
+  img: 'profile.JPG',
   role: ['Full Stack Developer at <a href="ramsalt.com">Ramsalt Lab</a>'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
@@ -22,6 +22,5 @@ const main = {
     }
   ],
   links: [
-    
   ]
 };
